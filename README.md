@@ -25,6 +25,8 @@ The design provides dynamic routing between all sites while maintaining two inde
 
 ## 🏗️ Network Architecture
 
+![Enterprise Dual-WAN Network Topology](screenshots/dual-wan-topology.png)
+
 
                          WAN-1
                            |
